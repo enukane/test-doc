@@ -2,4 +2,4 @@
 
 ![gazo](/images/test.jpg)
 
-- [go back to top](README.md)
+- [go back to top](/README.md)
